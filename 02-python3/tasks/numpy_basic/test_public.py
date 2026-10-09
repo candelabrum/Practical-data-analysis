@@ -85,8 +85,8 @@ DETECT_IDENTIC_TEST_CASES = [
 
 @dataclasses.dataclass
 class MeanChannelCase:
-    X: npt.NDArray[np.float_]
-    result: npt.NDArray[np.float_]
+    X: npt.NDArray[np.float64]
+    result: npt.NDArray[np.float64]
 
 
 MEAN_CHANNEL_TEST_CASES = [

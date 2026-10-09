@@ -29,7 +29,7 @@ def detect_identic(
     """
 
 
-def mean_channel(X: npt.NDArray[np.float_]) -> npt.NDArray[np.float_]:
+def mean_channel(X: npt.NDArray[np.float64]) -> npt.NDArray[np.float64]:
     """
     Given color image (3-dimensional vector of size (n, m, 3).
     Compute average value for all 3 channels
