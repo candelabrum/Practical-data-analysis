@@ -18,4 +18,6 @@
 
 - This film is terrible , but script is terrible
 
+Попробовать две версии: с лаплассовским сглаживанием delta = 1 и без него 
+
 слайды лекции: https://drive.google.com/file/d/1f7vQGNRe1PQi6WnEdCZbtf_zmx6fF8g1/view?usp=sharing
