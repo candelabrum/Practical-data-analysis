@@ -16,7 +16,7 @@
 
 Вам нужно ручками посчитать все вероятности нужные, чтобы классифицировать следующий отзыв:
 
-- This film is terrible , but script is terrible
+- This film is terrible , but script is awesome !
 
 Попробовать две версии: с лаплассовским сглаживанием delta = 1 и без него 
 
