@@ -11,7 +11,7 @@
 
 - This film is terrible !     | 0 
 
-- This film is awesome, but the script is terrible. | 1
+- This film is awesome , but the script is terrible. | 1
 
 
 Вам нужно ручками посчитать все вероятности нужные, чтобы классифицировать следующий отзыв:
