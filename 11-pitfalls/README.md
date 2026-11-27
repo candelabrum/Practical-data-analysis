@@ -8,5 +8,6 @@
 данные пары. Помните про p-hacking. Делите выборку на обучающую и тестовую.
 
 ## Что почитать?
-https://web.ma.utexas.edu/users/mks/statmistakes/StatisticsMistakes.html
+https://web.ma.utexas.edu/users/mks/statmistakes/StatisticsMistakes.html
+
 https://sites.stat.columbia.edu/gelman/research/unpublished/forking.pdf
