@@ -11,3 +11,5 @@
 https://web.ma.utexas.edu/users/mks/statmistakes/StatisticsMistakes.html
 
 https://sites.stat.columbia.edu/gelman/research/unpublished/forking.pdf
+
+https://www.youtube.com/watch?v=fMlIRwXSK70&list=PLlb7e2G7aSpRIiB5S5ld-3nxxVAH5cyAc&index=11
